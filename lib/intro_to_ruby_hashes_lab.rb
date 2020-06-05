@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {
+  financials = {
     money : 0
   }
 end
