@@ -3,9 +3,7 @@ def new_hash
 end
 
 def my_hash
-  financials = {
-    money : 0
-  }
+  {money : 0}
 end
 
 def pioneer
